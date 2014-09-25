@@ -8,4 +8,5 @@ t/meta.t
 t/minimumversion.t
 t/pod.t
 t/set.t
+t/set_init.t
 META.yml                                 Module meta-data (added by MakeMaker)
